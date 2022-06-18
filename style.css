@@ -5,7 +5,7 @@
     font-family: 'Open Sans', sans-serif;
   }
   body {
-    background-image: url(imagess/see5.jpg);
+    background-image: url(IMAGESS/see5.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -184,13 +184,13 @@
 
   @keyframes slide {
     0%{
-        background-image: url(imagess/see.jpg);
+        background-image: url(IMAGESS/see.jpg);
     }
     30%{
-        background-image: url(imagess/ctc.jpg);
+        background-image: url(IMAGESS/ctc.jpg);
     }
     60%{
-        background-image: url(imagess/see1.jpg);
+        background-image: url(IMAGESS/see1.jpg);
     }
   }
   
